@@ -1,3 +1,5 @@
 # digital-clock
 
-visit link: https://rashidyousufzai.github.io/digital-clock/![digital clocl](https://user-images.githubusercontent.com/106462341/193067137-a5db26ab-02d0-4081-9ded-3f823964420b.png)
+visit link: https://rashidyousufzai.github.io/digital-clock/
+
+![digital clocl](https://user-images.githubusercontent.com/106462341/193067360-50d9c580-e3bf-4392-8e64-abfea033c4f1.png)
